@@ -1,5 +1,0 @@
-"Rule: ocaml: cmx* & o* -> native (%=evenFib )": "zB\168\250\238\225\192\231\138K\012=\001E\204s"
-"Resource: /home/jharvard/code/euler/002/evenFib.ml": "W\172,>\129\162\134o\168\1819\223\225\193\146#"
-"Rule: ocaml dependencies ml (%=evenFib )": "\164BH\137\021\211\137\221\128\146\129\207{M\018V"
-"Rule: ocaml: ml & cmi -> cmx & o (%=evenFib )": "\r\210_p\225\027\248eX\167\182\167\255J3\b"
-"Rule: ocaml: ml -> cmo & cmi (%=evenFib )": "\177\175\245B\246\003_\185j\147\236w\2303\209\139"
