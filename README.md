@@ -1,5 +1,5 @@
 euler
 =====
-Solutions for project Euler challenge.
+Solutions for Project Euler challenge.
 
 Don't cheat.
