@@ -24,13 +24,9 @@ int main (void)
 
 bool prime (long long int num)
 {
-    bool isprime = true;
-    for (int i = 2; i < (sqrt(num) + 1); i++)
+    for (int i = 2; i < (sqrt(x) + 1); i++)
     {
-        if (num % i == 0)
-        {
-            isprime = false;
-        }
+        if (x % i == 0 && i != x){return false;}
     }
-    return isprime;
+    return true;
 }
