@@ -1,0 +1,6 @@
+let numstring =""
+
+multLong :: String -> Int
+
+multLong str num = case str of [] -> num
+			hd::tl -> max (mult take 13 str) (multLong tl num)  
