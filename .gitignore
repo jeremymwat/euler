@@ -8,3 +8,5 @@ Makefile
 *.cmx
 *.cmxs
 *.cmxa
+*.swp
+
